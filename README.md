@@ -51,7 +51,7 @@ Here are key web portals and internal systems I have designed and developed as *
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://stats.pphat.top/icons?name=javascript,python,php,html,css,tailwindcss,postgresql,supabase,nodejs,git,github,postman,docker,linux&size=medium&columns=7&effect=wave&color=%23F7DF1E%2C%233776AB%2C%23777BB4%2C%23E34F26%2C%231572B6%2C%2338B2AC%2C%234169E1%2C%233ECF8E%2C%23339933%2C%23F05032%2C%23181717%2C%23FF6C37%2C%232496ED%2C%23FCC624" alt="Tech Stack Icons Wave Effect" />
+  <img src="https://stats.pphat.top/icons?name=javascript,php,python,css,tailwindcss,nodejs,postgresql,supabase&size=medium&columns=8&effect=wave&color=%23F7DF1E%2C%23777BB4%2C%233776AB%2C%231572B6%2C%2338B2AC%2C%23339933%2C%234169E1%2C%233ECF8E" alt="Tech Stack Icons Wave Effect" />
 </p>
 
 <details>
