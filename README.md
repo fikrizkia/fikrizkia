@@ -20,12 +20,19 @@
 ### 🤝 Collaborations & Affiliations
 
 <p align="left">
-  <img src="https://img.shields.io/badge/BMKG-Stasiun_Meteorologi_Hang_Nadim_Batam-005BAC?style=for-the-badge&logo=gov&logoColor=white" />
-  <img src="https://img.shields.io/badge/BMKG-Stasiun_Meteorologi_Yogyakarta-0072CE?style=for-the-badge&logo=gov&logoColor=white" />
-  <img src="https://img.shields.io/badge/UMY-Universitas_Muhammadiyah_Yogyakarta-103C70?style=for-the-badge&logo=education&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="assets/bmkg.png" height="28" alt="BMKG" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/BMKG-Stasiun_Meteorologi_Hang_Nadim_Batam-005BAC?style=for-the-badge" style="vertical-align: middle;" />
+  &nbsp;
+  <img src="assets/bmkg.png" height="28" alt="BMKG" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/BMKG-Stasiun_Meteorologi_Yogyakarta-0072CE?style=for-the-badge" style="vertical-align: middle;" />
 </p>
-
+<p align="left">
+  <img src="assets/umy.png" height="28" alt="UMY" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/UMY-Universitas_Muhammadiyah_Yogyakarta-103C70?style=for-the-badge" style="vertical-align: middle;" />
+  &nbsp;
+  <img src="assets/google.svg" height="24" alt="Google" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Google-Student_Ambassador-4285F4?style=for-the-badge&logo=google&logoColor=white" style="vertical-align: middle;" />
+</p>
 ---
 
 ### 🚀 Featured Projects
