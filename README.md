@@ -11,9 +11,13 @@
 ### ⚡ About Me
 
 > [!NOTE]
-> 👋 **Hey! I'm Fikri** — an **adaptive, solution-oriented, and creative** Electrical Engineering student at Universitas Muhammadiyah Yogyakarta. 
-> 
-> I specialize in bridging technical precision with modern web development and automation. Currently, I lead full-stack web development projects for government meteorological stations while actively exploring IoT, data extraction, and visual design.
+> 👋 **Hey! I'm Fikri** — an **adaptive, solution-oriented, and creative** Electrical Engineering student at Universitas Muhammadiyah Yogyakarta.
+>
+> 🎓 **Education:** Electrical Engineering, Universitas Muhammadiyah Yogyakarta  
+> 💼 **Current Role:** Lead Web Developer (Internship) at BMKG Yogyakarta  
+> 🔭 **Specialization:** Web Development, Automation Scripts, Machine Learning, Artificial Intelligence & IoT Integration  
+> 📍 **Location:** Yogyakarta / Batam, Indonesia  
+> ⚡ **Fun Fact / Passion:** Suka memadukan automasi hardware/elektronika dengan arsitektur web modern.
 
 ---
 
@@ -35,14 +39,15 @@ Here are key web portals and internal systems I have designed and developed as *
 | Project Name | Description | Tech Stack | Live Demo / Preview |
 | :--- | :--- | :--- | :--- |
 | **Portal Resmi UPT BMKG Batam** | Website resmi unit pelaksana teknis informasi cuaca, maritim, dan penerbangan. | `HTML` `CSS` `JS` `Python` `Firebase` `Supabase` `SQL` `NodeJS` | 🌐 [BMKG Batam - Website Resmi](https://project-demo.web.app) |
-| **PTSP BMKG Batam** | Sistem Pelayanan Terpadu Satu Pintu untuk pengajuan data meteorologi publik. | `HTML` `CSS` `JS` `Python` `Firebase` `Supabase` `SQL` `NodeJS` | 🌐 [Pelayanan Data BMKG Batam](https://project-demo.web.app) |
+| **PTSP BMKG Batam** | Mendigitalkan 100% alur permohonan data cuaca & iklim publik secara paperless berbasis Supabase & Firebase. | `HTML` `CSS` `JS` `Python` `Firebase` `Supabase` `SQL` `NodeJS` | 🌐 [Pelayanan Data BMKG Batam](https://project-demo.web.app) |
 
 #### 📍 BMKG Stasiun Meteorologi Kelas II Yogyakarta *(Ongoing 4-Month Internship)*
 | Project Name | Description | Tech Stack | Live Demo / Preview |
 | :--- | :--- | :--- | :--- |
 | **Portal Resmi UPT BMKG YIA** | Portal utama informasi cuaca publik, maritim, & penerbangan DIY. | `HTML` `CSS` `JS` `PHP` `Python` `API` `Supabase` `Firebase` | 🌐 [STAMETYIA Portal Informasi](https://project-demo.web.app) |
-| **PTSP BMKG Yogyakarta** | Portal terintegrasi layanan permohonan data cuaca & iklim. | `HTML` `CSS` `JS` `PHP` `Python` `API` `Supabase` `Firebase` | 🌐 [PTSP BMKG Yogyakarta](https://project-demo.web.app) |
-| **Layanan Magang & Kunjungan** | Sistem manajemen pendaftaran magang mahasiswa dan edukasi kunjungan sekolah. | `HTML` `CSS` `JS` `Tailwind` `Supabase` `Firebase` | 🌐 [Layanan Kunjungan & Magang BMKG](https://project-demo.web.app) |
+| **PTSP BMKG Yogyakarta** | Mendigitalkan 100% alur permohonan data cuaca & iklim publik secara paperless berbasis Supabase & Firebase. | `HTML` `CSS` `JS` `PHP` `Python` `API` `Supabase` `Firebase` | 🌐 [PTSP BMKG Yogyakarta](https://project-demo.web.app) |
+| **Layanan Magang & Kunjungan** | Sistem pendaftaran dan seleksi otomatis untuk magang mahasiswa dan edukasi sekolah. | `HTML` `CSS` `JS` `Tailwind` `Supabase` `Firebase` | 🌐 [Layanan Kunjungan & Magang BMKG](https://project-demo.web.app) |
+| **Sistem Administrasi Tata Usaha** | Mendigitalisasi keseluruhan proses administrasi hingga database pegawai Stasiun Meteorologi Yogyakarta. | `HTML` `CSS` `JS` `PHP` `SQL` `Supabase` | 🌐 [Sistem TU BMKG Yogyakarta](https://project-demo.web.app) |
 
 > *Note: Link bertanda staging/demo preview disesuaikan dengan lingkungan sistem internal instansi.*
 
@@ -99,7 +104,8 @@ Here are key web portals and internal systems I have designed and developed as *
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=fikrizkia&layout=compact&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
@@ -110,6 +116,10 @@ Here are key web portals and internal systems I have designed and developed as *
 <p align="left">
   <a href="https://www.linkedin.com/in/fikri-rizkia-prisyabil-a26112269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:fr.prisyabil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
