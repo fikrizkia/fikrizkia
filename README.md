@@ -104,8 +104,8 @@ Here are key web portals and internal systems I have designed and developed as *
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=fikrizkia&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fikrizkia&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
