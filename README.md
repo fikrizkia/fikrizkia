@@ -124,15 +124,15 @@ Here are key web portals and internal systems I have designed and developed as *
 </p>
 
 #### ⏰ Waktu Produktif & Jam Aktif Coding (WIB / UTC+7)
-> [!TIP]
-> **Apa arti grafik di bawah ini?**  
-> Kolom ini merangkum **kebiasaan jam coding & komitmen harian** saya:  
-> - 🌞 **Morning:** 06:00 – 12:00 WIB  
-> - 🌆 **Daytime:** 12:00 – 18:00 WIB *(Waktu paling produktif!)*  
-> - 🌃 **Evening:** 18:00 – 24:00 WIB  
-> - 🌙 **Night:** 00:00 – 06:00 WIB  
-> 
-> *Batang visual di bawah ini otomatis ter-update mengikuti aktivitas pengerjaan kode terbaru.*
+
+| Periode Waktu | Rentang Jam (WIB) | Karakteristik Aktivitas Coding | Status |
+| :--- | :--- | :--- | :--- |
+| 🌞 **Morning** | `06:00 – 12:00 WIB` | Brainstorming, reviewing PR & commit awal hari | Aktif |
+| 🌆 **Daytime** | `12:00 – 18:00 WIB` | **Jam Kerja Puncak (Peak Productivity)**: Fitur baru & bug fixing | 🔥 Paling Produktif |
+| 🌃 **Evening** | `18:00 – 24:00 WIB` | Refactoring, deployment & eksperimen arsitektur | Aktif Tinggi |
+| 🌙 **Night Owl** | `00:00 – 06:00 WIB` | Deep focus, riset modul & automasi background | Fokus |
+
+> *Diagram dan persentase di bawah ini otomatis ter-update secara real-time setiap Anda aktif coding di Antigravity / GitHub.*
 
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Friday** 
