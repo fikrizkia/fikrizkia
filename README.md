@@ -93,7 +93,7 @@ Here are key web portals and internal systems I have designed and developed as *
 
 ---
 
-### 📊 Contribution Activity
+### 📊 Contribution Activity & Coding Hours
 
 <p align="center">
   <picture>
@@ -103,11 +103,19 @@ Here are key web portals and internal systems I have designed and developed as *
   </picture>
 </p>
 
+<!-- Productive Coding Hours & Active Time Breakdown (UTC+7 / WIB) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fikrizkia&theme=tokyonight&utcOffset=7" alt="Fikri's Productive Time & Active Hours" />
+</p>
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fikrizkia&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
