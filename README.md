@@ -123,6 +123,17 @@ Here are key web portals and internal systems I have designed and developed as *
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fikrizkia&theme=tokyonight&animation=sequence" width="98%" alt="Fikri's 1-Year Coding Activity Curve" />
 </p>
 
+#### ⏰ Waktu Produktif & Jam Aktif Coding (WIB / UTC+7)
+> [!TIP]
+> **Apa arti grafik di bawah ini?**  
+> Kolom ini merangkum **kebiasaan jam coding & komitmen harian** saya:  
+> - 🌞 **Morning:** 06:00 – 12:00 WIB  
+> - 🌆 **Daytime:** 12:00 – 18:00 WIB *(Waktu paling produktif!)*  
+> - 🌃 **Evening:** 18:00 – 24:00 WIB  
+> - 🌙 **Night:** 00:00 – 06:00 WIB  
+> 
+> *Batang visual di bawah ini otomatis ter-update mengikuti aktivitas pengerjaan kode terbaru.*
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
