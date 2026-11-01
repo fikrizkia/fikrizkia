@@ -105,7 +105,8 @@ Here are key web portals and internal systems I have designed and developed as *
 
 <!-- Productive Coding Hours & Active Time Breakdown (UTC+7 / WIB) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fikrizkia&theme=tokyonight&utcOffset=7" alt="Fikri's Productive Time & Active Hours" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fikrizkia&theme=tokyonight&utcOffset=7&animation=sequence" width="49%" alt="Fikri's Productive Time & Active Hours" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fikrizkia&theme=tokyonight&animation=sequence" width="49%" alt="Fikri's Coding & Contribution Stats" />
 </p>
 
 <p align="center">
