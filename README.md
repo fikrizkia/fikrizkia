@@ -116,6 +116,60 @@ Here are key web portals and internal systems I have designed and developed as *
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+🌆 Daytime                85 commits          ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌃 Evening                73 commits          ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+🌙 Night                  64 commits          ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Tuesday                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Wednesday                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Thursday                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Friday                   60 commits          ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Saturday                 38 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Sunday                   50 commits          █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     10 repos            ██████████████░░░░░░░░░░░   55.56 % 
+Python                   4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+
+ Last Updated on 01/11/2026 09:36:02 UTC
 <!--END_SECTION:waka-->
 
 ---
