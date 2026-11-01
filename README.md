@@ -132,19 +132,26 @@ Here are key web portals and internal systems I have designed and developed as *
 | 🌃 **Evening** | `18:00 – 24:00 WIB` | Refactoring, deployment & eksperimen arsitektur | Aktif Tinggi |
 | 🌙 **Night Owl** | `00:00 – 06:00 WIB` | Deep focus, riset modul & automasi background | Fokus |
 
-> *Diagram dan persentase di bawah ini otomatis ter-update secara real-time setiap Anda aktif coding di Antigravity / GitHub.*
+##### 🦉 I'm a Night Owl — Aktivitas Harian
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+| Waktu Coding | Total Commits | Persentase Aktivitas |
+| :--- | :---: | :---: |
+| 🌞 **Morning** *(06:00 – 12:00 WIB)* | 42 commits | `15.61 %` |
+| 🌆 **Daytime** *(12:00 – 18:00 WIB)* | 90 commits | **33.46 %** 🔥 |
+| 🌃 **Evening** *(18:00 – 24:00 WIB)* | 73 commits | `27.14 %` |
+| 🌙 **Night** *(00:00 – 06:00 WIB)* | 64 commits | `23.79 %` |
 
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#bf91f3">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#38bdae">42 commits</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="6" width="56" height="8" rx="6" fill="#70a5fd"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#38bdae">15.61%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#bf91f3">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#38bdae">90 commits</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="30" width="120" height="8" rx="6" fill="#70a5fd"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#38bdae">33.46%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#bf91f3">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#38bdae">73 commits</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="54" width="98" height="8" rx="6" fill="#70a5fd"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#38bdae">27.14%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#bf91f3">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#38bdae">64 commits</text><rect x="280" y="78" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="78" width="86" height="8" rx="6" fill="#70a5fd"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#38bdae">23.79%</text></svg>
-📅 **I'm Most Productive on Friday** 
+##### 📅 I'm Most Productive on Friday — Aktivitas Mingguan
 
-<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#bf91f3">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#38bdae">8 commits</text><rect x="280" y="6" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="6" width="11" height="8" rx="6" fill="#70a5fd"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#38bdae">2.97%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#bf91f3">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#38bdae">25 commits</text><rect x="280" y="30" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="30" width="33" height="8" rx="6" fill="#70a5fd"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#38bdae">9.29%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#bf91f3">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#38bdae">35 commits</text><rect x="280" y="54" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="54" width="47" height="8" rx="6" fill="#70a5fd"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#38bdae">13.01%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#bf91f3">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#38bdae">48 commits</text><rect x="280" y="78" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="78" width="64" height="8" rx="6" fill="#70a5fd"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#38bdae">17.84%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#bf91f3">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#38bdae">60 commits</text><rect x="280" y="102" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="102" width="80" height="8" rx="6" fill="#70a5fd"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#38bdae">22.30%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#bf91f3">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#38bdae">38 commits</text><rect x="280" y="126" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="126" width="51" height="8" rx="6" fill="#70a5fd"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#38bdae">14.13%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#bf91f3">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#38bdae">55 commits</text><rect x="280" y="150" width="360" height="8" rx="6" fill="#1a1b27"/><rect x="280" y="150" width="74" height="8" rx="6" fill="#70a5fd"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#38bdae">20.45%</text></svg>
-
-
-
-<!--END_SECTION:waka-->
+| Hari | Total Commits | Persentase Aktivitas |
+| :--- | :---: | :---: |
+| **Monday** | 8 commits | `2.97 %` |
+| **Tuesday** | 25 commits | `9.29 %` |
+| **Wednesday** | 35 commits | `13.01 %` |
+| **Thursday** | 48 commits | `17.84 %` |
+| **Friday** | 60 commits | **22.30 %** 🚀 |
+| **Saturday** | 38 commits | `14.13 %` |
+| **Sunday** | 55 commits | `20.45 %` |
 
 ---
 
