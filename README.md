@@ -103,16 +103,20 @@ Here are key web portals and internal systems I have designed and developed as *
   </picture>
 </p>
 
-<!-- Productive Coding Hours & Active Time Breakdown (UTC+7 / WIB) -->
+<!-- GitHub Activity & Languages Overview (Larger & Crisp Layout) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fikrizkia&theme=tokyonight&utcOffset=7&animation=sequence" width="49%" alt="Fikri's Productive Time & Active Hours" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fikrizkia&theme=tokyonight&animation=sequence" width="49%" alt="Fikri's Coding & Contribution Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" width="49%" alt="Fikri's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fikrizkia&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Fikri's Top Languages" />
 </p>
 
+<!-- Full-Width GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=fikrizkia&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fikrizkia&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight&hide_border=true" width="98%" alt="Fikri's GitHub Streak" />
+</p>
+
+<!-- Smooth Full-Width Coding Habits & Active Hours Curve -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fikrizkia&theme=tokyonight&animation=sequence" width="98%" alt="Fikri's 1-Year Coding Activity Curve" />
 </p>
 
 <!--START_SECTION:waka-->
