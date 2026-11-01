@@ -96,6 +96,10 @@ Here are key web portals and internal systems I have designed and developed as *
 ### 📊 Contribution Activity & Coding Hours
 
 <p align="center">
+  <img src="bongo-cat.gif" width="280" alt="Bongo Cat Coding Vibe" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fikrizkia/fikrizkia/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fikrizkia/fikrizkia/output/github-snake.svg">

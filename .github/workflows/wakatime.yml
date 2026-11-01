@@ -23,6 +23,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#70a5fd"
+          BAR_TRACK_COLOR: "#1a1b27"
+          BAR_RADIUS: "6"
+          TEXT_PRIMARY_COLOR: "#bf91f3"
+          TEXT_SECONDARY_COLOR: "#38bdae"
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "True"
@@ -35,4 +41,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
           SECTION_NAME: "waka"
-          COMMIT_MESSAGE: "📊 docs(readme): update wakatime coding hours stats"
+          COMMIT_MESSAGE: "📊 docs(readme): update wakatime coding hours stats with cute SVG bars"
