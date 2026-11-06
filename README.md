@@ -123,35 +123,19 @@ Here are key web portals and internal systems I have designed and developed as *
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fikrizkia&theme=tokyonight&animation=sequence" width="98%" alt="Fikri's 1-Year Coding Activity Curve" />
 </p>
 
-#### ⏰ Waktu Produktif & Jam Aktif Coding (WIB / UTC+7)
-
-| Periode Waktu | Rentang Jam (WIB) | Karakteristik Aktivitas Coding | Status |
-| :--- | :--- | :--- | :--- |
-| 🌞 **Morning** | `06:00 – 12:00 WIB` | Brainstorming, reviewing PR & commit awal hari | Aktif |
-| 🌆 **Daytime** | `12:00 – 18:00 WIB` | **Jam Kerja Puncak (Peak Productivity)**: Fitur baru & bug fixing | 🔥 Paling Produktif |
-| 🌃 **Evening** | `18:00 – 24:00 WIB` | Refactoring, deployment & eksperimen arsitektur | Aktif Tinggi |
-| 🌙 **Night Owl** | `00:00 – 06:00 WIB` | Deep focus, riset modul & automasi background | Fokus |
-
-##### 🦉 I'm a Night Owl — Aktivitas Harian
-
-| Waktu Coding | Total Commits | Persentase Aktivitas |
-| :--- | :---: | :---: |
-| 🌞 **Morning** *(06:00 – 12:00 WIB)* | 42 commits | `15.61 %` |
-| 🌆 **Daytime** *(12:00 – 18:00 WIB)* | 90 commits | **33.46 %** 🔥 |
-| 🌃 **Evening** *(18:00 – 24:00 WIB)* | 73 commits | `27.14 %` |
-| 🌙 **Night** *(00:00 – 06:00 WIB)* | 64 commits | `23.79 %` |
-
-##### 📅 I'm Most Productive on Friday — Aktivitas Mingguan
+<!--START_SECTION:weekly_activity-->
+##### 📅 I'm Most Productive on Thursday — Aktivitas Mingguan
 
 | Hari | Total Commits | Persentase Aktivitas |
 | :--- | :---: | :---: |
-| **Monday** | 8 commits | `2.97 %` |
-| **Tuesday** | 25 commits | `9.29 %` |
-| **Wednesday** | 35 commits | `13.01 %` |
-| **Thursday** | 48 commits | `17.84 %` |
-| **Friday** | 60 commits | **22.30 %** 🚀 |
-| **Saturday** | 38 commits | `14.13 %` |
-| **Sunday** | 55 commits | `20.45 %` |
+| **Monday** | 8 commits | `5.76 %` |
+| **Tuesday** | 17 commits | `12.23 %` |
+| **Wednesday** | 18 commits | `12.95 %` |
+| **Thursday** | 41 commits | **29.50 %** 🚀 |
+| **Friday** | 10 commits | `7.19 %` |
+| **Saturday** | 11 commits | `7.91 %` |
+| **Sunday** | 34 commits | `24.46 %` |
+<!--END_SECTION:weekly_activity-->
 
 ---
 
