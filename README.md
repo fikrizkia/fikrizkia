@@ -128,13 +128,13 @@ Here are key web portals and internal systems I have designed and developed as *
 
 | Hari | Total Commits | Persentase Aktivitas |
 | :--- | :---: | :---: |
-| **Monday** | 49 commits | `11.21 %` |
-| **Tuesday** | 42 commits | `9.61 %` |
-| **Wednesday** | 46 commits | `10.53 %` |
-| **Thursday** | 86 commits | **19.68 %** 🚀 |
-| **Friday** | 79 commits | `18.08 %` |
-| **Saturday** | 75 commits | `17.16 %` |
-| **Sunday** | 60 commits | `13.73 %` |
+| **Monday** | 58 commits | `12.58 %` |
+| **Tuesday** | 42 commits | `9.11 %` |
+| **Wednesday** | 46 commits | `9.98 %` |
+| **Thursday** | 86 commits | **18.66 %** 🚀 |
+| **Friday** | 79 commits | `17.14 %` |
+| **Saturday** | 75 commits | `16.27 %` |
+| **Sunday** | 75 commits | `16.27 %` |
 <!--END_SECTION:weekly_activity-->
 
 ---
