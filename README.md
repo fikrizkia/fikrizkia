@@ -124,17 +124,17 @@ Here are key web portals and internal systems I have designed and developed as *
 </p>
 
 <!--START_SECTION:weekly_activity-->
-##### 📅 I'm Most Productive on Tuesday — Aktivitas Mingguan
+##### 📅 I'm Most Productive on Wednesday — Aktivitas Mingguan
 
 | Hari | Total Commits | Persentase Aktivitas |
 | :--- | :---: | :---: |
-| **Monday** | 68 commits | `11.37 %` |
-| **Tuesday** | 117 commits | **19.57 %** 🚀 |
-| **Wednesday** | 98 commits | `16.39 %` |
-| **Thursday** | 86 commits | `14.38 %` |
-| **Friday** | 79 commits | `13.21 %` |
-| **Saturday** | 75 commits | `12.54 %` |
-| **Sunday** | 75 commits | `12.54 %` |
+| **Monday** | 68 commits | `9.38 %` |
+| **Tuesday** | 117 commits | `16.14 %` |
+| **Wednesday** | 167 commits | **23.03 %** 🚀 |
+| **Thursday** | 144 commits | `19.86 %` |
+| **Friday** | 79 commits | `10.90 %` |
+| **Saturday** | 75 commits | `10.34 %` |
+| **Sunday** | 75 commits | `10.34 %` |
 <!--END_SECTION:weekly_activity-->
 
 ---
